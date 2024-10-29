@@ -3,5 +3,4 @@ En este repositorio se encontrarán los avances del proyecto que se harán para 
 Miembros del proyecto: 
 - Cristopher Ramírez
 - Wendy Chaparro
-- Andrea Beleño
-- Estefanía Velez
+
